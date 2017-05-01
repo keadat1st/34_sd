@@ -19,6 +19,9 @@ A new Guest wants to get registered in the hotel system.
 Staff creates a new guest in the hotel management system by entering  id, name, and age of the guest.    
 Staff then adds the guest to the guest list of the hotel.
 
+### Solution
+<img src="https://github.com/dat17v1/43_sd/blob/master/img/HotelSolution.JPG" width="600px">
+
 ## Øvelse:
 
 1. Tegn et Diagram til en (lille) del af jeres Movie Program
