@@ -20,7 +20,7 @@ Staff creates a new guest in the hotel management system by entering  id, name, 
 Staff then adds the guest to the guest list of the hotel.
 
 ### Solution
-<img src="https://github.com/dat17v1/43_sd/blob/master/img/HotelSolution.png" width="600px">
+<img src="https://github.com/dat17v1/43_sd/blob/hotelsolution/img/HotelSolution.png" width="600px">
 
 ## Øvelse:
 
