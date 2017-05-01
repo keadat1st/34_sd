@@ -10,7 +10,8 @@ public class UserInterface
         {
              Scanner scan = new Scanner(System.in);
 
-            // Vælg mellem add book og andre
+            // Vælg at tilføje en bog
+            
             System.out.print("Title: ");
             String title = scan.nextLine();
 
