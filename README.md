@@ -1,6 +1,11 @@
 # 34 SD
 Agenda til 34 Sequence Diagram Mandag d. 23/4-2018
 
+## Elements in a Sequence Diagram
+
+![SD elements](https://github.com/dat18v2/34_sd/blob/master/img/IMG_3741.JPG)
+
+### Example
 <img src="https://github.com/dat18v2/34_sd/blob/master/img/ATM_SD.JPG" width="600px">
 
 ## Øvelse: 
