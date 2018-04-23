@@ -8,12 +8,13 @@ Agenda til 34 Sequence Diagram Mandag d. 23/4-2018
 <img src="https://github.com/dat18v2/34_sd/blob/master/img/ATM_SD.JPG" width="600px">
 
 ## Øvelse: 
-#### > Create the code for this Diagram    
+
+> Create the code for this Diagram    
 
 <img src="https://github.com/dat18v2/34_sd/blob/master/img/SD_Exercise.JPG" width="600px">
 
 ## Øvelse:
-Lav et Sequence Diagram for denne use case:
+> Lav et Sequence Diagram for denne use case:
 
 **Hotel Reservation**    
 UC#1 Register Guest    
