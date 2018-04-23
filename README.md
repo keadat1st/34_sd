@@ -1,4 +1,4 @@
-# 34 SD
+# 34 Sequece Diagram
 Agenda til 34 Sequence Diagram Mandag d. 23/4-2018
 
 ## Elements in a Sequence Diagram
