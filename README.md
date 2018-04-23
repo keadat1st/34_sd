@@ -6,12 +6,15 @@ Agenda til 34 Sequence Diagram Mandag d. 23/4-2018
 ![SD elements](https://github.com/dat18v2/34_sd/blob/master/img/IMG_3741.JPG)
 
 ### Example
-<img src="https://github.com/dat18v2/34_sd/blob/master/img/ATM_SD.JPG" width="600px">
+
+![Example](https://github.com/dat18v2/34_sd/blob/master/img/ATM_SD.JPG)
+<!--<img src="https://github.com/dat18v2/34_sd/blob/master/img/ATM_SD.JPG" width="600px">-->
 
 ## Øvelse: 
 Create the code for this Diagram
+![Example](https://github.com/dat18v2/34_sd/blob/master/img/SD_Exercise.JPG)
 
-<img src="https://github.com/dat18v2/34_sd/blob/master/img/SD_Exercise.JPG" width="600px">
+<!--<img src="https://github.com/dat18v2/34_sd/blob/master/img/SD_Exercise.JPG" width="600px">-->
 
 ## Øvelse:
 Lav et Sequence Diagram for denne use case:
