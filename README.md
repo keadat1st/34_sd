@@ -1,12 +1,12 @@
-# 43 SD
-Agenda til 43 Sequence Diagram Mandag d. 1/5-2017
+# 34 SD
+Agenda til 34 Sequence Diagram Mandag d. 23/4-2018
 
-<img src="https://github.com/dat17v1/43_sd/blob/master/img/ATM_SD.JPG" width="600px">
+<img src="https://github.com/dat18v2/34_sd/blob/master/img/ATM_SD.JPG" width="600px">
 
 ## Øvelse: 
 Create the code for this Diagram
 
-<img src="https://github.com/dat17v1/43_sd/blob/master/img/SD_Exercise.JPG" width="600px">
+<img src="https://github.com/dat18v2/34_sd/blob/master/img/SD_Exercise.JPG" width="600px">
 
 ## Øvelse:
 Lav et Sequence Diagram for denne use case:
