@@ -2,16 +2,16 @@
 Agenda til 40 Sequence Diagram 
 
 ## Elements in a Sequence Diagram
-<img src="https://github.com/dat18v2/34_sd/blob/master/img/IMG_3741.JPG" width="600px">
+<img src="/img/IMG_3741.JPG" width="600px">
 
 ### Example
-<img src="https://github.com/dat18v2/34_sd/blob/master/img/ATM_SD.JPG" width="600px">
+<img src="/img/ATM_SD.JPG" width="600px">
 
 ## Øvelse: 
 
 > Create the code for this Diagram    
 
-<img src="https://github.com/dat18v2/34_sd/blob/master/img/SD_Exercise.JPG" width="600px">
+<img src="/img/SD_Exercise.JPG" width="600px">
 
 ## Øvelse:
 > Lav et Sequence Diagram for denne use case:
