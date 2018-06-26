@@ -1,5 +1,5 @@
 # 34 Sequece Diagram
-Agenda til 34 Sequence Diagram Mandag d. 23/4-2018
+Agenda til 34 Sequence Diagram 
 
 ## Elements in a Sequence Diagram
 <img src="https://github.com/dat18v2/34_sd/blob/master/img/IMG_3741.JPG" width="600px">
