@@ -1,5 +1,5 @@
-# 34 Sequece Diagram
-Agenda til 34 Sequence Diagram 
+# 40 Sequece Diagram
+Agenda til 40 Sequence Diagram 
 
 ## Elements in a Sequence Diagram
 <img src="https://github.com/dat18v2/34_sd/blob/master/img/IMG_3741.JPG" width="600px">
